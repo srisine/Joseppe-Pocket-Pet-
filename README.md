@@ -23,20 +23,24 @@ So here's Joseppe my own virtual pet!
   * **`[PLAY]`**: Increases happiness at the cost of slight energy depletion, triggering a joyful expression.
   * **`[SLEEP]`**: Manually toggles sleep or wake states on demand.
 
-### 4. Haptic Feedback Integration
-* **Tactile Responses:** Integrated coin vibration motor triggers distinct haptic pulses and double-taps to confirm button clicks, successful menu actions, and startup sequences.
+### 4. Auditory Feedback Integration
+* **Auditory Responses:** Integrated passive buzzer triggers distinct audio pulses and double-beeps to confirm button clicks, successful menu actions, and startup sequences.
 
 <h1>CAD</h1>
 
-<img width="1920" height="722" alt="af597854-a211-4d1d-8939-3bf9ae8501c2" src="https://github.com/user-attachments/assets/7da5f154-5f44-4097-9838-473eebb5d43d" />
+<img width="1170" height="702" alt="Bottom" src="https://github.com/user-attachments/assets/a25c44af-3e3f-4ad9-93e0-79afd75de8f0" />
 
-<img width="1920" height="722" alt="Joseppe_(Assembly)_2026-Oct-29_11-34-24AM-000_CustomizedView14371881487" src="https://github.com/user-attachments/assets/0576e09c-d015-46f0-9a0a-879e28d230f2" />
+<img width="1920" height="722" alt="#3" src="https://github.com/user-attachments/assets/6fc03064-83c5-4c2c-b558-e594eb1245c8" />
+
+<img width="1920" height="722" alt="#2" src="https://github.com/user-attachments/assets/356cc662-1b5f-4fcb-b73d-0b8932463209" />
+
+<img width="1920" height="722" alt="#1" src="https://github.com/user-attachments/assets/f3b479b9-087d-4c91-86be-d209756f2752" />
 
 <h1>PCB</h1>
 
-<img width="1279" height="672" alt="PCBRedesign#1" src="https://github.com/user-attachments/assets/6c0bf63e-f1cc-4e89-9f99-d96142b9a5ef" />
+<img width="1117" height="640" alt="PCBRT" src="https://github.com/user-attachments/assets/c85a912f-898e-4670-8f36-4303fbb9a4f8" />
 
-<img width="858" height="511" alt="PCBCircuitRedesign#1" src="https://github.com/user-attachments/assets/badf96cb-3b61-4888-9cb3-a2f497d71ee1" />
+<img width="978" height="528" alt="PCB" src="https://github.com/user-attachments/assets/18ce5368-a598-428a-b7f4-10fe4740f436" />
 
 ## Bill of Materials (BOM)
 
