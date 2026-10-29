@@ -528,9 +528,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "D:/Projects/Joseppe-Pocket-Pet-/Production/",
       "specctra_dsn": "",
-      "step": "pcb.step",
+      "step": "../../Joseppe-Pocket-Pet-/PCB/pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
