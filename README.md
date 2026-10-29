@@ -38,15 +38,19 @@ So here's Joseppe my own virtual pet!
 
 <img width="858" height="511" alt="PCBCircuitRedesign#1" src="https://github.com/user-attachments/assets/badf96cb-3b61-4888-9cb3-a2f497d71ee1" />
 
-<h1>BOM</h1>
+## Bill of Materials (BOM)
 
-| Component | Qty |
-| :--- | :---: |
-| Seeed Studio XIAO ESP32-C3 | 1 |
-| 2.25-inch SPI TFT Screen | 1 |
-| Standard 6x6mm Tactile Switch | 3 |
-| 1–3V Coin / Pancake ERM Motor | 1 |
-| LiPo Battery (3.7V) | 1 |
-| 3D Printed Case & Button Caps | 1 set |
-| M3 Screws (16mm length) | 4 |
-| Custom PCB Board | 1 |
+| Component | Qty | Source | Price (USD) | Link |
+| :--- | :---: | :---: | :---: | :--- |
+| **Seeed Studio XIAO ESP32-C3** | 1 | Online | $8.71 | [Robu.in](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) |
+| **2.25-inch SPI TFT Screen** | 1 | Online | $5.56 | [Robu.in](https://robu.in/product/225-inch-tft-lcd-st7789-small-screen-76284-module-lcd-full-view-spi-color-screen-with-soldering/) |
+| **Standard 6x6mm Tactile Switch** | 3 | Local | ~$5.00 | Local Market |
+| **Passive Buzzer** | 1 | Online | $0.53 | [Robu.in](https://robu.in/product/1-month-warranty-1248/) |
+| **LiPo Battery (3.7V 2500mAh)** | 1 | Online | $6.61 | [Robu.in](https://robu.in/product/wly104050-2500mah-3-7v-single-cell-rechargeable-lipo-battery/) |
+| **3D Printed Case & Button Caps** | 1 set | Online | ~$11.00 | Robu.in |
+| **M3 Screws (16mm length)** | 4 | Local | $1.00 | Local Market |
+| **Custom PCB Board** | 1 | Online | ~$3.00 | [JLCPCB](https://jlcpcb.com/) |
+| **TP4056 Charging Module** | 1 | Online | $0.20 | [Robu.in](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) |
+| **Subtotal (Online Purchases)** | **7** | **Online** | **~$25.61** | — |
+| **Subtotal (Local Purchases)** | **2** | **Local** | **~$6.00** | — |
+| **Grand Total** | **14 pcs** | **All** | **~$31.61** | — |
