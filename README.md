@@ -6,7 +6,7 @@ So here's Joseppe my own virtual pet!
 
 ## Features
 
-### 🎮 1. Interactive Pet Lifecycle & Core Stats
+### 1. Interactive Pet Lifecycle & Core Stats
 * **Real-time Stat Decay:** The pet's **Hunger**, **Happiness**, and **Energy** degrade automatically over time via a non-blocking tick loop.
 * **Dynamic States:** The pet transitions across multiple autonomous states (`IDLE`, `HUNGRY`, `SLEEPING`, `HAPPY`) depending on how well it is cared for.
 * **Smart Sleep Management:** When energy levels drop critically low, the pet automatically enters a sleeping state to passively recover energy over time.
